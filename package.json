@@ -1,0 +1,26 @@
+{
+  "name": "@alwkala/tidyfactor-php",
+  "version": "1.0.0",
+  "description": "TidyFactor PHP \u2014 Modern Server-Rendered PHP 8.x Architecture & Component UI Engine",
+  "main": "bin/create-kit.js",
+  "bin": {
+    "tidyfactor-php": "bin/create-kit.js",
+    "add-skill": "bin/add-skill.js"
+  },
+  "scripts": {
+    "test": "node ./bin/create-kit.js --help",
+    "validate": "node tools/validate-skill.js --sync",
+    "build:skill": "node tools/build-skill.js",
+    "build:all": "npm run validate && npm run build:skill"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TidyFactor/PHP.git"
+  },
+  "author": "TidyFactor & Alwkala <hello@tidyfactor.com> (https://alwkala.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/TidyFactor/PHP/issues"
+  },
+  "homepage": "https://tidyfactor.com"
+}

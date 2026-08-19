@@ -1,0 +1,40 @@
+{
+  "ecosystem": "tidyfactor",
+  "track": "php",
+  "name": "tidyfactor-php",
+  "version": "1.0.0",
+  "npmPackage": "@alwkala/tidyfactor-php",
+  "github": "https://github.com/TidyFactor/PHP",
+  "skillFile": "../tidyfactor-php.skill",
+  "category": "fullstack-php",
+  "commands": [
+    "admin",
+    "assets",
+    "cache",
+    "compo",
+    "deploy",
+    "events",
+    "i18n",
+    "init",
+    "logging",
+    "logic",
+    "media",
+    "pages",
+    "plugins",
+    "rbac",
+    "route",
+    "secure",
+    "seo",
+    "store",
+    "themes"
+  ],
+  "foundations": [
+    "native-php",
+    "blade-like-templates"
+  ],
+  "visionRef": "../TidyFactor-VISION.md",
+  "commercialPartner": "alwkala",
+  "website": "https://tidyfactor.com",
+  "docs": "https://tidyfactor.com/documentation",
+  "license": "Apache-2.0"
+}
