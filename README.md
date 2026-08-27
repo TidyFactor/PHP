@@ -1,10 +1,26 @@
-# TidyFactor PHP Mono
+<div align="center">
 
-The **Modern Modular Monolith** track of the TidyFactor skill library — a
-Claude skill for scaffolding, converting, and improving a WordPress-scale
-PHP platform: classic server-side rendering (Flight + Medoo + Plates), a
-theme system, a WordPress-style auto-discovered plugin system, an event
-dispatcher, RBAC, and a locked 13-module admin panel.
+# 🐘 TidyFactor PHP `v1.1.0`
+### Modern Modular Monolith, Component UI & Locked 13-Module Platform Engine
+
+**The official modern PHP 8.x architecture track within the TidyFactor Ecosystem.**
+
+[![npm version](https://img.shields.io/npm/v/@alwkala/tidyfactor-php.svg?style=for-the-badge&color=777BB4)](https://www.npmjs.com/package/@alwkala/tidyfactor-php)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE)
+[![RTL Ready](https://img.shields.io/badge/RTL-Native%20Arabic-emerald.svg?style=for-the-badge)](README.ar.md)
+[![PHP 8.4+](https://img.shields.io/badge/PHP-8.4%2B%20SSR-8892BF.svg?style=for-the-badge)](https://php.net)
+
+[🚀 Quick Start](#-quick-start) • [⚡ 15 Commands](#-command-set) • [🏛️ Ecosystem](#%EF%B8%8F-tidyfactor-ecosystem-architecture) • [📖 بالعربية](README.ar.md)
+
+<br/><br/>
+
+<p align="center">
+  <img src="assets/hero-banner.png" alt="TidyFactor PHP Hero Banner" width="100%" />
+</p>
+
+</div>
+
+---
 
 Part of the TidyFactor ecosystem. The larger sibling of
 `tidyfactor-php-micro` — same locked-stack philosophy, scaled from "small

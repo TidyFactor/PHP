@@ -1,8 +1,7 @@
 ---
 name: tidyfactor-php
-description: "TidyFactor PHP Mono track — Modern Server-Rendered PHP Modular Monolith (Flight + Medoo + Plates) with Contextual Decision Layer (CDL). Features WordPress-scale architecture, auto-discovered plugin hooks, dynamic theme system, RBAC, and 13 locked admin panel modules. Trigger on commands 'brief', 'init', 'admin', 'plugins', 'themes', 'events', 'rbac', 'secure', 'route', 'pages', 'media', 'cache', 'i18n', 'logging', 'seo', 'deploy', or requests like 'build a WordPress alternative in PHP', 'scaffold a modular monolith', 'Flight Medoo Plates CMS'. Anti-triggers: Do NOT use for SPA REST APIs or Next.js/React frontends."
+description: "Modern server-rendered PHP 8.x modular monolith (Flight + Medoo + Plates) with Contextual Decision Layer (CDL). Features WordPress-scale architecture, auto-discovered plugin hooks, dynamic theme engine, RBAC, and locked admin modules. Trigger on commands 'brief', 'init', 'admin', 'plugins', 'themes', 'events', 'rbac', 'secure', 'route', 'pages', 'media', 'i18n', 'seo', 'deploy'."
 ---
-
 # TidyFactor PHP (Modern Server-Rendered Modular Monolith)
 
 A command dispatcher for full-stack server-rendered PHP monoliths. This router declares commands and workflows without performing execution directly.

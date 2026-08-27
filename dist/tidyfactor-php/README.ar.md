@@ -1,7 +1,21 @@
-# tidyfactor-php
+<div align="center" dir="rtl">
 
-> التوثيق العربي لـ `tidyfactor-php`
+# 🐘 مهارة تايتفكتور لمنظومات PHP الحديثة `TidyFactor PHP v1.1.0`
+### المنظومة الأحادية المعيارية الحديثة بنظام Plates و Flight و Medoo وإدارة 13 موديول مغلق
 
+[![npm version](https://img.shields.io/npm/v/@alwkala/tidyfactor-php.svg?style=for-the-badge&color=777BB4)](https://www.npmjs.com/package/@alwkala/tidyfactor-php)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE)
+[![RTL Native Arabic](https://img.shields.io/badge/RTL-Native%20Arabic-emerald.svg?style=for-the-badge)](#-معمارية-منظومة-tidyfactor)
+
+[⚡ الأوامر](#-أوامر-المهارة) • [🏛️ المنظومة](#-معمارية-منظومة-tidyfactor) • [📖 English Version](README.md)
+
+<br/><br/>
+
+<p align="center">
+  <img src="assets/hero-banner.png" alt="TidyFactor PHP Hero Banner" width="100%" />
+</p>
+
+</div>
 
 ---
 
