@@ -1,6 +1,6 @@
 # Skill Registry — tidyfactor-php
 
-Identity: `tidyfactor-php` | Package: `@alwkala/tidyfactor-php` | Version: `1.0.0`
+Identity: `tidyfactor-php` | Package: `@tidyfactor/php` | Version: `1.0.0`
 
 ## Commands (19)
 ```

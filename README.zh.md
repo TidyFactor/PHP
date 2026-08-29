@@ -4,7 +4,7 @@
 
 **基于 Modern PHP 8.x 的服务端渲染模块化单体引擎 (Flight + Medoo + Plates)**
 
-[![npm version](https://img.shields.io/npm/v/@alwkala/tidyfactor-php.svg?style=for-the-badge&color=0284C7)](https://www.npmjs.com/package/@alwkala/tidyfactor-php)
+[![npm version](https://img.shields.io/npm/v/@tidyfactor/php.svg?style=for-the-badge&color=0284C7)](https://www.npmjs.com/package/@tidyfactor/php)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg?style=for-the-badge)](LICENSE)
 
 [ English ](README.md) • [ العربية ](README.ar.md) • [ فارسی ](README.fa.md) • [ Español ](README.es.md) • [ Português ](README.pt.md) • [ 简体中文 ](README.zh.md) • [ Deutsch ](README.de.md) • [ Français ](README.fr.md)
@@ -17,7 +17,7 @@
 
 ```bash
 # 通过 NPX 快速运行
-npx @alwkala/tidyfactor-php
+npx @tidyfactor/cli-php
 ```
 
 或在 AI 编码助手 (*Google Antigravity, Claude Code, Cursor, Codex*) 中调用：

@@ -1,6 +1,6 @@
 # Changelog - TidyFactor PHP
 
-All notable changes to the **[@alwkala/tidyfactor-php](https://www.npmjs.com/package/@alwkala/tidyfactor-php)** package will be documented in this file.
+All notable changes to the **[@tidyfactor/php](https://www.npmjs.com/package/@tidyfactor/php)** package will be documented in this file.
 
 ## [1.2.0] - 2026-08-29
 
@@ -25,4 +25,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ---
 
 ## [1.0.0] - 2026-07-28
-- Initial Release of `@alwkala/tidyfactor-php`
+- Initial Release of `@tidyfactor/php`

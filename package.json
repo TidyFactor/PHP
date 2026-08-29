@@ -1,5 +1,5 @@
 {
-  "name": "@alwkala/tidyfactor-php",
+  "name": "@tidyfactor/php",
   "version": "1.2.0",
   "description": "TidyFactor PHP Mono track — Modern Server-Rendered Modular Monolith (Flight + Medoo + Plates) with Contextual Decision Layer (CDL)",
   "main": "SKILL.md",
@@ -22,7 +22,7 @@
     "claude-code",
     "cursor"
   ],
-  "author": "TidyFactor & Alwkala <hello@tidyfactor.com> (https://alwkala.com)",
+  "author": "TidyFactor <hello@tidyfactor.com> (https://tidyfactor.com)",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
