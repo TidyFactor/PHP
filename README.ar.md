@@ -1,6 +1,6 @@
 <div align="center" dir="rtl">
 
-# 🐘 مهارة تايتفكتور لمنظومات PHP الحديثة `TidyFactor PHP v1.1.0`
+# 🐘 مهارة تايتفكتور لمنظومات PHP الحديثة `TidyFactor PHP v1.2.0`
 ### المنظومة الأحادية المعيارية الحديثة بنظام Plates و Flight و Medoo وإدارة 13 موديول مغلق
 
 [![npm version](https://img.shields.io/npm/v/@alwkala/tidyfactor-php.svg?style=for-the-badge&color=777BB4)](https://www.npmjs.com/package/@alwkala/tidyfactor-php)

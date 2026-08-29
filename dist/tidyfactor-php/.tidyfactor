@@ -2,7 +2,7 @@
   "ecosystem": "tidyfactor",
   "track": "php",
   "name": "tidyfactor-php",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "npmPackage": "@alwkala/tidyfactor-php",
   "github": "https://github.com/TidyFactor/PHP",
   "skillFile": "../tidyfactor-php-v1.1.0.skill",
