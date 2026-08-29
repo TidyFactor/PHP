@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐘 TidyFactor PHP `v1.1.0`
+# 🐘 TidyFactor PHP `v1.2.0`
 ### Modern Modular Monolith, Component UI & Locked 13-Module Platform Engine
 
 **The official modern PHP 8.x architecture track within the TidyFactor Ecosystem.**
